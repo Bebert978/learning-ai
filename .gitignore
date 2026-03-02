@@ -1,0 +1,9 @@
+# Variables d'environnement et secrets
+.env
+.env.*
+
+# Dépendances Node.js
+node_modules/
+
+# Dossier interne Claude Code
+.claude/
